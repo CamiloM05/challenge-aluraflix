@@ -1,0 +1,14 @@
+.boton-estilizado {
+    min-width: 250px;
+    height: 60px;
+    border-radius: 15px;
+    border-style: none;
+    outline: none;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px;
+  }
+  

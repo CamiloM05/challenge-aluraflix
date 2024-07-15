@@ -1,0 +1,18 @@
+.container-menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    background-color: #262626;
+    box-shadow: 1px 1px 25px 5px #257be5;
+  }
+  
+  .container-menu.oscuro {
+    background-color: #090f16; 
+  }
+  
+  .logo-estilizado {
+    width: 168px;
+    height: 40px;
+  }
+  
